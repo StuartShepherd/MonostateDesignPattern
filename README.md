@@ -1,4 +1,4 @@
-# Monostate Example
+# Monostate Design Pattern Example
 Monostate is a creational design pattern that lets you ensure that a class has only one instance.
 
 ## Usage examples
